@@ -1,6 +1,6 @@
 # Voice preview licenses and provenance
 
-Generated: 2026-09-21
+Generated: 2026-09-22
 
 All files contain the sentence “The quick brown fox jumps over the lazy dog.” They were generated locally from the exact model packs identified below and encoded as 24 kHz mono MP3 at 64 kbps. No human reference recording was used for this release.
 

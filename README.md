@@ -4,7 +4,7 @@ This public repository hosts the small remote catalog and preview audio used by 
 
 - `catalog.json` lets the app discover updated preview URLs without an app update.
 - Preview MP3 files are published as GitHub Release assets, not committed to Git history.
-- Model weights are not mirrored here until their redistribution terms have been reviewed individually.
+- The `models-v2` release contains 16 packs whose exact model cards or upstream licenses passed review. Unreviewed packs aren't mirrored.
 
 ## Preview format
 
