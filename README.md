@@ -10,7 +10,7 @@ This public repository hosts the small remote catalog and preview audio used by 
 
 Every preview says: “The quick brown fox jumps over the lazy dog.”
 
-The `previews-v1` release contains freshly generated 24 kHz mono MP3 files encoded at 64 kbps. The app downloads a preview only after the user taps play and keeps it in temporary Android cache for at most six hours.
+The `previews-v2` release contains 36 freshly generated 24 kHz mono MP3 files encoded at 64 kbps. The app downloads a preview only after the user taps play and keeps it in temporary Android cache for at most six hours.
 
 ## Licensing
 
