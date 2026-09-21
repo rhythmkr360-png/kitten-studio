@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "previewOverrides": {
+    "piper-bryce-medium-int8:0": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/piper-bryce-medium-int8-0.mp3",
+    "piper-joe-medium-int8:0": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/piper-joe-medium-int8-0.mp3",
+    "piper-john-medium-int8:0": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/piper-john-medium-int8-0.mp3",
+    "kitten-nano-01:0": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-0.mp3",
+    "kitten-nano-01:1": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-1.mp3",
+    "kitten-nano-01:2": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-2.mp3",
+    "kitten-nano-01:3": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-3.mp3",
+    "kitten-nano-01:4": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-4.mp3",
+    "kitten-nano-01:5": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-5.mp3",
+    "kitten-nano-01:6": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-6.mp3",
+    "kitten-nano-01:7": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kitten-nano-01-7.mp3",
+    "kokoro-multilang:0": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kokoro-multilang-0.mp3",
+    "kokoro-multilang:1": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kokoro-multilang-1.mp3",
+    "kokoro-multilang:2": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v1/kokoro-multilang-2.mp3"
+  },
+  "models": []
+}
