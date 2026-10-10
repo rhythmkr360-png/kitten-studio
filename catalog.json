@@ -56,5 +56,212 @@
     "kokoro-multilang:1":"https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v2/kokoro-multilang-1.mp3",
     "kokoro-multilang:2":"https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-v2/kokoro-multilang-2.mp3"
   },
-  "models": []
+  "models": [
+    {
+      "id": "kokoro-english-v1-0",
+      "name": "Kokoro 1.0 English",
+      "family": "Kokoro",
+      "catalogFamilyId": "kokoro",
+      "catalogFamilyName": "Kokoro",
+      "voiceLabel": "Heart · Kokoro",
+      "summary": "28 American and British English voices.",
+      "description": "The original Kokoro 1.0 voice library with 28 English presets. One model download unlocks every listed voice. Existing Kokoro 1.1 voices remain available separately.",
+      "license": "Apache 2.0",
+      "sourceUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "languages": "English (US · UK)",
+      "capabilities": [
+        "TTS"
+      ],
+      "engine": "KOKORO",
+      "tier": "MOBILE",
+      "runtimeFolder": "kokoro-multi-lang-v1_0",
+      "artifacts": [
+        {
+          "fileName": "kokoro-multi-lang-v1_0.tar.bz2",
+          "url": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/models-kokoro-v1-0/kokoro-multi-lang-v1_0.tar.bz2",
+          "expectedBytes": 349906910,
+          "sha256": "c5f7e2d2caf082bc1d20fb70334a61d99d20b484500aad32e7cf84c128ea3298",
+          "archive": true
+        }
+      ],
+      "memoryNote": "Moderate processing load; speed depends on your phone.",
+      "commercialNote": "Apache 2.0 model; retain Kokoro and sherpa-onnx notices. Included eSpeak NG data has separate GPL terms.",
+      "speakerCount": 28,
+      "defaultSpeaker": 3,
+      "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-3.mp3",
+      "previewLabel": "The quick brown fox",
+      "isPrimaryRealistic": false,
+      "accessTier": "FREE",
+      "voices": [
+        {
+          "speakerId": 0,
+          "name": "Alloy",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-0.mp3"
+        },
+        {
+          "speakerId": 1,
+          "name": "Aoede",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-1.mp3"
+        },
+        {
+          "speakerId": 2,
+          "name": "Bella",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-2.mp3"
+        },
+        {
+          "speakerId": 3,
+          "name": "Heart",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-3.mp3"
+        },
+        {
+          "speakerId": 4,
+          "name": "Jessica",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-4.mp3"
+        },
+        {
+          "speakerId": 5,
+          "name": "Kore",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-5.mp3"
+        },
+        {
+          "speakerId": 6,
+          "name": "Nicole",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-6.mp3"
+        },
+        {
+          "speakerId": 7,
+          "name": "Nova",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-7.mp3"
+        },
+        {
+          "speakerId": 8,
+          "name": "River",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-8.mp3"
+        },
+        {
+          "speakerId": 9,
+          "name": "Sarah",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-9.mp3"
+        },
+        {
+          "speakerId": 10,
+          "name": "Sky",
+          "detail": "American English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-10.mp3"
+        },
+        {
+          "speakerId": 11,
+          "name": "Adam",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-11.mp3"
+        },
+        {
+          "speakerId": 12,
+          "name": "Echo",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-12.mp3"
+        },
+        {
+          "speakerId": 13,
+          "name": "Eric",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-13.mp3"
+        },
+        {
+          "speakerId": 14,
+          "name": "Fenrir",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-14.mp3"
+        },
+        {
+          "speakerId": 15,
+          "name": "Liam",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-15.mp3"
+        },
+        {
+          "speakerId": 16,
+          "name": "Michael",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-16.mp3"
+        },
+        {
+          "speakerId": 17,
+          "name": "Onyx",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-17.mp3"
+        },
+        {
+          "speakerId": 18,
+          "name": "Puck",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-18.mp3"
+        },
+        {
+          "speakerId": 19,
+          "name": "Santa",
+          "detail": "American English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-19.mp3"
+        },
+        {
+          "speakerId": 20,
+          "name": "Alice",
+          "detail": "British English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-20.mp3"
+        },
+        {
+          "speakerId": 21,
+          "name": "Emma",
+          "detail": "British English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-21.mp3"
+        },
+        {
+          "speakerId": 22,
+          "name": "Isabella",
+          "detail": "British English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-22.mp3"
+        },
+        {
+          "speakerId": 23,
+          "name": "Lily",
+          "detail": "British English · Female",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-23.mp3"
+        },
+        {
+          "speakerId": 24,
+          "name": "Daniel",
+          "detail": "British English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-24.mp3"
+        },
+        {
+          "speakerId": 25,
+          "name": "Fable",
+          "detail": "British English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-25.mp3"
+        },
+        {
+          "speakerId": 26,
+          "name": "George",
+          "detail": "British English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-26.mp3"
+        },
+        {
+          "speakerId": 27,
+          "name": "Lewis",
+          "detail": "British English · Male",
+          "previewUrl": "https://github.com/rhythmkr360-png/kitten-studio/releases/download/previews-kokoro-v1-0/kokoro-english-v1-0-27.mp3"
+        }
+      ]
+    }
+  ]
 }
